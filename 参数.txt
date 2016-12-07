@@ -1,0 +1,33 @@
+﻿{"size":15,"query":"logo","isVague":-1,"page":0,"cat":"ad-express","filter":{"type":3,"cat":1,"city_id":0,"position":10,"people_faver":{"or":[1,2,8]},"area":{"or":["6561","3418",0]}},"fltype":"field","flcontext":"expressId,catId"}
+
+
+
+{
+    "size": 15,
+    "query": "logo",
+    "isVague": -1,
+    "page": 0,
+    "cat": "ad-express",
+    "filter": {
+        "type": 3,
+        "cat": 1,
+        "city_id": 0,
+        "position": 10,
+        "people_faver": {
+            "or": [
+                1,
+                2,
+                8
+            ]
+        },
+        "area": {
+            "or": [
+                "6561",
+                "3418",
+                0
+            ]
+        }
+    },
+    "fltype": "field",
+    "flcontext": "expressId,catId"
+}
